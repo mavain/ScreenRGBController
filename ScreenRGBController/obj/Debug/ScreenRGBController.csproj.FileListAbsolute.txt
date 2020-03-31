@@ -1,0 +1,6 @@
+C:\Users\Mavain\source\repos\ScreenRGBController\ScreenRGBController\bin\Debug\ScreenRGBController.exe.config
+C:\Users\Mavain\source\repos\ScreenRGBController\ScreenRGBController\bin\Debug\ScreenRGBController.exe
+C:\Users\Mavain\source\repos\ScreenRGBController\ScreenRGBController\bin\Debug\ScreenRGBController.pdb
+C:\Users\Mavain\source\repos\ScreenRGBController\ScreenRGBController\obj\Debug\ScreenRGBController.csprojAssemblyReference.cache
+C:\Users\Mavain\source\repos\ScreenRGBController\ScreenRGBController\obj\Debug\ScreenRGBController.exe
+C:\Users\Mavain\source\repos\ScreenRGBController\ScreenRGBController\obj\Debug\ScreenRGBController.pdb
